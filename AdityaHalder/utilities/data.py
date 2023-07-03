@@ -746,10 +746,10 @@ LOVER_RAID = [
     "के इंसान तो बच जाता है मगर ज़िंदा नहीं रहता😂💓",
 ]
 
-GRP = "@adityadiscus|@sanki_world|@kaalmods"
+GRP = "@dausa_123|@dausa_123|@dausa_123"
 
 GROUP = []
 
-VERIFIED_USERS = [1282754256, 5336023580, 702821224]
+VERIFIED_USERS = [1236703127, 1236703127, 1236703127]
 
-Owners = "@adityahalder|@iamkaal"
+Owners = "@lokesh_dausa|@lokesh_dausa1"
